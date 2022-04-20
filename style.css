@@ -55,13 +55,6 @@
     background-color: rgba(255, 255, 255, 0.4);
 }
 
-.true::before {
-    content: 'đúng ✓';
-    position: absolute;
-    right: 20px;
-    color: #018101;
-}
-
 .footer {
     width: 100%;
     background-color: black;
