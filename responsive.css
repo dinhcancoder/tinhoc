@@ -1,0 +1,37 @@
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 992px) {
+	html {
+        font-size: 62%;
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 60%;
+    }
+}
+
+@media (max-width: 575.98px) {
+ 	
+}
+
+@media (max-width: 425px) {
+	html {
+        font-size: 58.8%;
+    }
+
+    .a, .b, .c, .d {
+        padding: 12px 0 12px 15px;
+        border: 1.5px solid black;
+        border-radius: 5px;
+        margin: 15px 0;
+        font-size: 1.62rem;
+    }
+
+    .excel__title h2 {
+        font-size: 1.72rem;
+    }
+}
