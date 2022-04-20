@@ -34,4 +34,8 @@
     .excel__title h2 {
         font-size: 1.72rem;
     }
+
+    .footer__title p {
+        text-align: center;
+    }
 }
